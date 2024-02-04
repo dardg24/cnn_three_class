@@ -184,4 +184,10 @@ Para abordar esta área, se contemplará la implementación de estrategias como 
 
 La posibilidad de combinar múltiples modelos a través de un enfoque de ensamblaje, donde cada modelo pueda aprender a enfocarse en diferentes características discriminativas entre gatos y perros, también podría ser una técnica valiosa para aumentar la precisión. Además, se recomienda realizar un análisis de errores más profundo para comprender mejor los patrones de error y ajustar el modelo o el proceso de entrenamiento en consecuencia.
 
+## Extra
+
+Con el siguiente link puedes acceder a los modelos y la data
+
+https://drive.google.com/drive/folders/1nam6hEHNYvbjFarEmr78npkNigXw1ADw?usp=sharing
+
 En resumen, aunque los resultados actuales son prometedores, el modelo aún tiene potencial de mejora. Las estrategias mencionadas, junto con un proceso iterativo de entrenamiento y evaluación, serán fundamentales para mejorar la capacidad del modelo de clasificar con alta precisión y robustez, y para reducir específicamente la confusión entre las clases de gatos y perros. Con estos ajustes, se espera no solo mejorar la precisión del modelo, sino también su capacidad de generalización y su aplicabilidad en entornos del mundo real.
